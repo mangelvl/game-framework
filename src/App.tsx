@@ -11,7 +11,7 @@ function App() {
         <Console />
       </div>
       <div className='flex flex-col items-center'>
-        <h2 className='text-lg text-gray-300'>footer</h2>
+        <h2 className='text-lg text-gray-300'>Footer</h2>
       </div>
     </>
   )
