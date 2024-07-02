@@ -10,9 +10,6 @@ function App() {
       <div className='flex flex-col items-center'>
         <Console />
       </div>
-      <div className='flex flex-col items-center'>
-        <h2 className='text-lg text-gray-300'>Footer</h2>
-      </div>
     </>
   )
 }
